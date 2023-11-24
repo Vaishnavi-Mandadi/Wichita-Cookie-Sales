@@ -37,4 +37,5 @@ Microsoft Power BI
 
 
 
-![image](https://github.com/Vaishnavi-Mandadi/Wichita-Cookie-Sales/assets/126366530/db51ce1e-9660-412f-9892-a60dd57804af)
+![image](https://github.com/Vaishnavi-Mandadi/Wichita-Cookie-Sales-Analysis/assets/126366530/0599df94-cc80-45bd-a0b4-3c8ddc85fff6)
+
