@@ -8,7 +8,7 @@ The analysis is based on data compiled from four Excel files:
 
 Cookie Cost and Revenue (Cookie Cost and Revenue.xlsx): Lists revenue and cost per cookie for each product.
 
-Countries (Countries.xlsx): Provides a list of countries and their populations.
+Countries (Countries.xlsx): Provides a list of countries and their population.
 
 Products (Products.xlsx): Details the different types of cookies sold by the company.
 
